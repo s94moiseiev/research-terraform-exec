@@ -1,0 +1,1 @@
+K3D_NUM_AGENTS = 3
